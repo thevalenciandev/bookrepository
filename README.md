@@ -1,2 +1,2 @@
 # bookrepository
-A simple book repository application built using Spring Boot
+A toy book repository application built using Spring Boot
