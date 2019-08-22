@@ -1,4 +1,4 @@
-package com.thevalenciandev.bookrepo;
+package com.thevalenciandev.bookrepo.domain;
 
 public class Book {
 

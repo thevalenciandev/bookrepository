@@ -1,5 +1,6 @@
-package com.thevalenciandev.bookrepo;
+package com.thevalenciandev.bookrepo.repository;
 
+import com.thevalenciandev.bookrepo.domain.Book;
 import org.springframework.cache.annotation.Cacheable;
 import org.springframework.stereotype.Component;
 
